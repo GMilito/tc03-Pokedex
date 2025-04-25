@@ -6,7 +6,7 @@ Una pequeña aplicación de Pokédex construida con **React Native** y la **Poke
 
 ## 🚀 Funcionalidades
 
-- ✅ Lista de Pokémon (limitada a 20 por defecto)
+- ✅ Lista de Pokémon (limitada a 50 por defecto)
 - 🔍 Búsqueda por nombre
 - 🌐 Filtro por tipo
 - 📋 Detalles del Pokémon seleccionado:
