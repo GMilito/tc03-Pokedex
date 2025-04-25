@@ -1,6 +1,6 @@
-# 📱 Pokédex en Español
+# 📱 Pokédex
 
-Una pequeña aplicación de Pokédex construida con **React Native** y la **PokeAPI**, con toda la información traducida al español: tipos, habilidades, descripciones y más.
+Una pequeña aplicación de Pokédex construida con **React Native** y la **PokeAPI**, con toda la información traducida: tipos, habilidades, descripciones y más.
 
 ---
 
